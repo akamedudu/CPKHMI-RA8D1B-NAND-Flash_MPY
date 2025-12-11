@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<item key="selection" value="Error"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="error"/>
+			<item value="const bsp_leds_t g_bsp_leds"/>
+			<item value="#include &quot;py/mphal.h&quot;"/>
+			<item value="mp_uart_init();"/>
+			<item value="void mp_uart_init(void);"/>
+			<item value="extern const uart_instance_t g_uart0;"/>
+			<item value="while (R_SCI_B_UART_StatusGet(g_uart0.p_ctrl) == SCI_B_UART_STATUS_TX_BUSY)"/>
+			<item value="extern uart_instance_t g_uart"/>
+			<item value="#include &quot;../micropython/pystack.h&quot;"/>
+			<item value="#include &quot;../micropython/shared/runtime/gchelper.h&quot;"/>
+			<item value="#define MICROPY_PY_BUILTINS_MEMORYVIEW ("/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="700"/>
+		<item key="DIALOG_Y_ORIGIN" value="211"/>
+		<item key="DIALOG_WIDTH" value="320"/>
+		<item key="DIALOG_HEIGHT" value="379"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+	</section>
+</section>

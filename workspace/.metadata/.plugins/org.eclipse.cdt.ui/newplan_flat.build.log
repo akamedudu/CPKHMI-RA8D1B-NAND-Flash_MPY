@@ -1,0 +1,8 @@
+17:08:01 **** 项目newplan_flat配置Debug的增量构建 ****
+make -r -j16 all 
+arm-none-eabi-size --format=berkeley "newplan_flat.elf"
+   text	   data	    bss	    dec	    hex	filename
+ 198316	    100	 535016	 733432	  b30f8	newplan_flat.elf
+
+17:08:02 Build Finished. 0 errors, 0 warnings. (took 199ms)
+
